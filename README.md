@@ -6,7 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alptugan&label=Profile%20views&color=0e75b6&style=flat" alt="alptugan" /> </p>
 
-# [![MasterHead](https://media3.giphy.com/media/kgkZbopT2L52DHv45a/giphy.gif)](https://www.alptugan.com)
+
+<!-- [![MasterHead](https://media3.giphy.com/media/kgkZbopT2L52DHv45a/giphy.gif)](https://www.alptugan.com) -->
 
 <p align="left"> <a href="https://twitter.com/alptugan" target="blank"><img src="https://img.shields.io/twitter/follow/alptugan?logo=twitter&style=for-the-badge" alt="alptugan" /></a> </p>
 
