@@ -23,7 +23,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [From Math to Algorithms: Implementing Traditional Equations via Programming](https://medium.com/@alptugan/from-math-to-algorithms-implementing-traditional-equations-via-programming-6be27193bc8c?source=rss-e019cce92d3------2)
+- [From Math to Algorithms: Implementing Scientific Equations via Programming](https://medium.com/@alptugan/from-math-to-algorithms-implementing-traditional-equations-via-programming-6be27193bc8c?source=rss-e019cce92d3------2)
 - [Coding a Generative Picture Frame: A Journey through Computational Thinking as a Problem-Solving…](https://medium.com/@alptugan/coding-a-generative-picture-frame-a-journey-through-computational-thinking-as-a-problem-solving-746de589b65f?source=rss-e019cce92d3------2)
 - [Automate Common Tasks on Mac with Atomic Apps: Boost Your Productivity!](https://medium.com/@alptugan/automate-common-tasks-on-mac-with-atomic-apps-boost-your-productivity-352e83be9936?source=rss-e019cce92d3------2)
 - [icns Creator: Open-source native utility app creating icon files](https://medium.com/@alptugan/icns-creator-open-source-native-utility-app-creating-icon-files-a54662093f7a?source=rss-e019cce92d3------2)
