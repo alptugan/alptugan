@@ -13,11 +13,11 @@
 
 - 🔭 I’m currently working on [p5.Utils](https://alptugan.github.io/p5.utils/)
 
-- 🌱 I’m currently learning **WebGPU**
-
 <!--- 👨‍💻 All of my projects are available at [https://www.alptugan.com](https://www.alptugan.com)-->
 
-- 📝 I write articles on [Medium](https://medium.com/@alptuan)
+- 📝 I write articles on [Medium](https://medium.com/@alptuan).
+
+- 🧠 A place for myself and my students in Creative Coding and Sound Design Classes, [Digital Garden](https://alptugan.github.io/blog-teaching/) 
 
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/alptugan/)
 
