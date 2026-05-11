@@ -15,7 +15,7 @@
 
 <!--- 👨‍💻 All of my projects are available at [https://www.alptugan.com](https://www.alptugan.com)-->
 
-- 📝 I write articles on [Medium](https://medium.com/@alptuan).
+- 📝 I write articles on [Medium](https://medium.com/@alptugan).
 
 - 🧠 A place for myself and my students in Creative Coding and Sound Design Classes, [Digital Garden](https://alptugan.github.io/blog-teaching/) 
 
