@@ -1,27 +1,26 @@
 
 <img align="center" width="100%" height="200" src="https://media3.giphy.com/media/kgkZbopT2L52DHv45a/giphy.gif">
-
+<br><br>
 <h1 align="center">Hi 🖖, I'm Alp Tuğan</h1>
-<h3 align="center">Keywords: Creative Coding, Generative Art, Live Coding, Sociotechnology</h3>
+<h3 align="center">Creative Coding, Generative Art, Live Coding, Sociotechnology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alptugan&label=Profile%20views&color=0e75b6&style=flat" alt="alptugan" /> </p>
 
 
 <!-- [![MasterHead](https://media3.giphy.com/media/kgkZbopT2L52DHv45a/giphy.gif)](https://www.alptugan.com) -->
 
-<p align="left"> <a href="https://twitter.com/alptugan" target="blank"><img src="https://img.shields.io/twitter/follow/alptugan?logo=twitter&style=for-the-badge" alt="alptugan" /></a> </p>
 
 - 🔭 I’m currently working on [p5.Utils](https://alptugan.github.io/p5.utils/)
 
 <!--- 👨‍💻 All of my projects are available at [https://www.alptugan.com](https://www.alptugan.com)-->
 
-- 📝 I write articles on [Medium](https://medium.com/@alptuan).
+- 📝 I write articles on my [teaching blog](https://teaching.alptugan.com/) & [Medium](https://medium.com/@alptuan).
 
-- 🧠 A place for myself and my students in Creative Coding and Sound Design Classes, [Digital Garden](https://alptugan.github.io/blog-teaching/) 
+- 🧠 A place for myself [alptugan.com](https://www.alptugan.com) 
 
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/alptugan/)
 
-### Blogs posts
+### Medium posts
 <!-- BLOG-POST-LIST:START -->
 - [From Math to Algorithms: Implementing Scientific Equations via Programming](https://medium.com/@alptugan/from-math-to-algorithms-implementing-traditional-equations-via-programming-6be27193bc8c?source=rss-e019cce92d3------2)
 - [Coding a Generative Picture Frame: A Journey through Computational Thinking as a Problem-Solving…](https://medium.com/@alptugan/coding-a-generative-picture-frame-a-journey-through-computational-thinking-as-a-problem-solving-746de589b65f?source=rss-e019cce92d3------2)
