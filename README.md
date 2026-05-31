@@ -1,6 +1,6 @@
 
 <img align="center" width="100%" height="200" src="https://media3.giphy.com/media/kgkZbopT2L52DHv45a/giphy.gif">
-<br><br>
+<br>
 <h1 align="center">Hi 🖖, I'm Alp Tuğan</h1>
 <h3 align="center">Creative Coding, Generative Art, Live Coding, Sociotechnology</h3>
 
